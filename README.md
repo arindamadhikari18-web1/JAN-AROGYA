@@ -1,17 +1,63 @@
-# jan_arogya_app
+# 🏥 JAN AROGYA
 
-A new Flutter project.
+### AI-Powered Healthcare Platform for Accessible & Connected Healthcare
 
-## Getting Started
+JAN AROGYA is a patient-centric healthcare platform designed to make healthcare more accessible for rural and underserved communities.
 
-This project is a starting point for a Flutter application.
+It connects users with doctors, hospitals, diagnostic services, health records, medicine reminders, family healthcare and emergency support — all in one platform.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🚀 Key Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🤖 AI Health Assistant
+- 👨‍⚕️ Doctor Appointment Booking
+- 🏥 Nearby Hospital Discovery
+- 🛏️ Hospital & Bed Availability
+- 📋 Digital Health Records
+- 💊 Medicine Reminder
+- 🧪 Lab Test Search & Booking
+- 🚑 Emergency Support
+- 👨‍👩‍👧 Family Health Management
+- 🌐 Multi-language & Voice Support
+- 👤 Guest Mode
+
+---
+
+## 💡 Our Vision
+
+**Right Guidance. Timely Care. One Platform.**
+
+JAN AROGYA aims to reduce healthcare access barriers by bringing essential healthcare services together in a simple and user-friendly platform.
+
+---
+
+## 🛠️ Technology Stack
+
+| Technology | Purpose |
+|---|---|
+| Flutter | Mobile Application |
+| Node.js | Backend |
+| Express.js | API & Server |
+| PostgreSQL | Database |
+| Gemini AI | AI Health Assistant |
+| Render | Backend Deployment |
+| GitHub | Version Control |
+| Figma | UI/UX Design |
+
+---
+
+## 🔄 How It Works
+
+```text
+User
+  ↓
+JAN AROGYA App
+  ↓
+AI / Healthcare Services
+  ↓
+Doctors • Hospitals • Labs
+  ↓
+Records • Reports • Follow-up
+
+
