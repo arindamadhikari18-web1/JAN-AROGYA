@@ -1,0 +1,73 @@
+'addRecord': 'रिकॉर्ड जोड़ें',
+'addHealthRecord': 'स्वास्थ्य रिकॉर्ड जोड़ें',
+'addRecordDescription':
+    'महत्वपूर्ण जानकारी जोड़ें और अपनी स्वास्थ्य रिपोर्ट अपलोड करें।',
+
+'recordTitle': 'रिकॉर्ड का शीर्षक',
+'recordTitleHint': 'उदाहरण: ब्लड टेस्ट रिपोर्ट',
+
+'description': 'विवरण',
+'descriptionHint': 'उदाहरण: कम्प्लीट ब्लड काउंट',
+
+'recordType': 'रिकॉर्ड का प्रकार',
+'labReport': 'लैब रिपोर्ट',
+'prescription': 'प्रिस्क्रिप्शन',
+'medicalRecord': 'मेडिकल रिकॉर्ड',
+
+'reportPhoto': 'रिपोर्ट फोटो',
+'addReportPhoto': 'रिपोर्ट फोटो जोड़ें',
+'tapCameraGallery': 'कैमरा या गैलरी चुनने के लिए टैप करें',
+
+'uploadReportPhoto': 'रिपोर्ट फोटो अपलोड करें',
+'chooseUploadMethod':
+    'अपनी रिपोर्ट जोड़ने का तरीका चुनें।',
+
+'takePhoto': 'फोटो लें',
+'takePhotoSubtitle':
+    'रिपोर्ट स्कैन करने के लिए कैमरा इस्तेमाल करें',
+
+'chooseGallery': 'गैलरी से चुनें',
+'chooseGallerySubtitle':
+    'मौजूदा रिपोर्ट फोटो चुनें',
+
+'pleaseFillDetails':
+    'कृपया रिकॉर्ड की सभी जानकारी भरें',
+
+'recordAdded':
+    'स्वास्थ्य रिकॉर्ड सफलतापूर्वक जोड़ दिया गया',
+
+'couldNotSave':
+    'रिकॉर्ड सेव नहीं हो सका। कृपया पुनः प्रयास करें।',
+
+'deleteRecord': 'रिकॉर्ड हटाएं?',
+'deleteConfirm':
+    'क्या आप इस रिकॉर्ड को हटाना चाहते हैं?',
+
+'cancel': 'रद्द करें',
+'delete': 'हटाएं',
+
+'couldNotDelete':
+    'रिकॉर्ड हटाया नहीं जा सका। कृपया पुनः प्रयास करें।',
+
+'recordDeleted':
+    'स्वास्थ्य रिकॉर्ड स्थायी रूप से हटा दिया गया',
+
+'reportImageNotAvailable':
+    'रिपोर्ट की फोटो अब उपलब्ध नहीं है।',
+
+'viewReport': 'रिपोर्ट देखें',
+
+'noHealthRecords': 'कोई स्वास्थ्य रिकॉर्ड नहीं',
+
+'noHealthRecordsDescription':
+    'अपनी मेडिकल रिपोर्ट, प्रिस्क्रिप्शन और अन्य स्वास्थ्य रिकॉर्ड यहाँ जोड़ें।',
+
+'addFirstRecord':
+    'अपना पहला रिकॉर्ड जोड़ें',
+
+'healthRecord': 'स्वास्थ्य रिकॉर्ड',
+
+'today': 'आज',
+
+'chooseImageError':
+    'फोटो चयन नहीं हो सका। कृपया पुनः प्रयास करें।',

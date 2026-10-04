@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1054004814540",
+    "project_id": "jan-arogya",
+    "storage_bucket": "jan-arogya.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054004814540:android:206422107455d809e11869",
+        "android_client_info": {
+          "package_name": "com.example.jan_arogya_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054004814540-pn0tek5e80sba5qoe0rnfrs87t9u4bnu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jan_arogya_app",
+            "certificate_hash": "ac4f10325c8eca75808be53406c4fd59bce67465"
+          }
+        },
+        {
+          "client_id": "1054004814540-4obti37gtt1t3dap9el5v6m90es9ij9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlplk1LBYzsiATY10m2jz9tBSjNLMNyVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054004814540-4obti37gtt1t3dap9el5v6m90es9ij9b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1054004814540-h6qm5lnuf68g27qdjuaa3dbj5gl21sb1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.janArogyaApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

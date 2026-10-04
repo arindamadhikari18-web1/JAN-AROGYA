@@ -1,0 +1,73 @@
+'addRecord': 'Add Record',
+'addHealthRecord': 'Add Health Record',
+'addRecordDescription':
+    'Add important details and upload your health report.',
+
+'recordTitle': 'Record Title',
+'recordTitleHint': 'Example: Blood Test Report',
+
+'description': 'Description',
+'descriptionHint': 'Example: Complete Blood Count',
+
+'recordType': 'Record Type',
+'labReport': 'Lab Report',
+'prescription': 'Prescription',
+'medicalRecord': 'Medical Record',
+
+'reportPhoto': 'Report Photo',
+'addReportPhoto': 'Add Report Photo',
+'tapCameraGallery': 'Tap to choose Camera or Gallery',
+
+'uploadReportPhoto': 'Upload Report Photo',
+'chooseUploadMethod':
+    'Choose how you want to add your report.',
+
+'takePhoto': 'Take Photo',
+'takePhotoSubtitle':
+    'Use your camera to scan the report',
+
+'chooseGallery': 'Choose from Gallery',
+'chooseGallerySubtitle':
+    'Select an existing report image',
+
+'pleaseFillDetails':
+    'Please fill all record details',
+
+'recordAdded':
+    'Health record added successfully',
+
+'couldNotSave':
+    'Could not save record. Please try again.',
+
+'deleteRecord': 'Delete Record?',
+'deleteConfirm':
+    'Are you sure you want to delete this record?',
+
+'cancel': 'Cancel',
+'delete': 'Delete',
+
+'couldNotDelete':
+    'Could not delete record. Please try again.',
+
+'recordDeleted':
+    'Health record deleted permanently',
+
+'reportImageNotAvailable':
+    'Report image is no longer available.',
+
+'viewReport': 'View Report',
+
+'noHealthRecords': 'No Health Records',
+
+'noHealthRecordsDescription':
+    'Add your medical reports, prescriptions and other health records here.',
+
+'addFirstRecord':
+    'Add Your First Record',
+
+'healthRecord': 'Health Record',
+
+'today': 'Today',
+
+'chooseImageError':
+    'Could not select image. Please try again.',
